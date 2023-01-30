@@ -1,16 +1,5 @@
-# code
+# cft
 *coffeecat*🥳🎉
-
-* C++
-* chrome extensions
-* cmd
-* html
-* javascript
-* python
-* reg
-* tempermonkey
-
-[Download](https://codeload.github.com/coffeecat123/code/zip/refs/heads/main)
 
 <details><summary>bookmark</summary>
 
